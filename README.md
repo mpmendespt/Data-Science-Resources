@@ -1,13 +1,3 @@
----
-#title: "Data Science Resources"
-output:
-  html_document:
-    toc: true
-
-  pdf_document:
-    toc: true
-    highlight: zenburn
----
 
 Data Science Resources
 =========================
