@@ -4,7 +4,6 @@ Data Science Resources
 
 There is many Data Science resources available online. So here is my Data Science Resources that I compiled, I think it should be useful on my path of learning Data Science.
 
-### Computer Science:
 #### Books:
 - An Introduction to Statistical Learning with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
@@ -15,6 +14,7 @@ There is many Data Science resources available online. So here is my Data Scienc
 - Online Stat Book: http://onlinestatbook.com/index.html
 - Practical Data Science with R: http://www.manning.com/zumel/
 
+### Computer Science:
 #### Statistics:
 - Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
 - 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
